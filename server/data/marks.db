@@ -1,0 +1,3 @@
+{"studentId":"NPDCEw0nyxBZhvRo","subject":"Eng","marks":50,"totalMarks":100,"createdAt":{"$$date":1754595389333},"_id":"ULrMIErzW4TZiQcD"}
+{"studentId":"NPDCEw0nyxBZhvRo","subject":"Tamil","marks":80,"totalMarks":100,"createdAt":{"$$date":1754595473590},"_id":"ks8G7alOGxyKRU6H"}
+{"$$indexCreated":{"fieldName":"studentId","unique":false,"sparse":false}}

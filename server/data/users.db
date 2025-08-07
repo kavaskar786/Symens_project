@@ -1,0 +1,3 @@
+{"username":"admin","password":"$2a$10$DLTCagHgBxg2SYbaqC0FE.coDYhj8jugTgSomLw9f8/isJkVx785K","role":"admin","_id":"hOo4Mn4XL9RnJr8t"}
+{"username":"teacher","password":"$2a$10$qWp5j6zo4.O2m935I9WxdOZrvdtjqWd9B9m02ZxQF78BmBfrcXxnW","role":"teacher","_id":"raUnjeNUHjBsJ1LD"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
