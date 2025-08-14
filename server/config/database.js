@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-// MongoDB connection test 4
+// MongoDB connection test 6
 const connectDB = async () => {
   try {
     const conn = await mongoose.connect(
